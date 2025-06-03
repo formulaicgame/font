@@ -1,3 +1,7 @@
+
+# notes
+Build with `uv run build.py fonts`, build output in `build`, use `CozetteVector.otf`. Project file: `./Cozette/Cozette.sfd`
+
 # Cozette
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/slavfox/Cozette?logo=github&style=flat-square)](https://github.com/slavfox/Cozette/releases/latest)
