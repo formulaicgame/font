@@ -1,3 +1,17 @@
+[project]
+name = "Cozette"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy",
+    "Pillow >= 8.3.2",
+    "fonttools",
+    "crayons",
+    "gitpython",
+    "setuptools",
+    "pip",
+]
+
 [tool.isort]
 multi_line_output = 3
 include_trailing_comma = true
